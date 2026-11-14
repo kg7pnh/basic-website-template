@@ -12,4 +12,4 @@ Write commit messages in the [Conventional Commits](https://www.conventionalcomm
 - `feat!: ...` or a `BREAKING CHANGE:` footer makes a major release
 
 After each push to `main`, release-please opens or updates a release PR.
-Merging that PR updates `CHANGELOG.md` and `version.txt`, tags the version and publishes a GitHub release.
+Merging that PR updates `CHANGELOG.md`, tags the version and publishes a GitHub release.
